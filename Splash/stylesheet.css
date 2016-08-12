@@ -1,0 +1,229 @@
+.header {
+	padding:1em;
+    color: #DC143C;
+    background-color: #DC143C;
+    clear: left;
+    text-align: center;
+	max-width: 100%;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #FFFFFF;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+
+.icon-bar {
+	max-width: 100%;
+    width: 70px;
+    text-align: center;
+    background-color: #555;
+}
+
+.icon-bar a {
+    padding: 16px;
+	display: block;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+}
+
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.active {
+    background-color: #4CAF50 !important;
+}
+
+
+.dropdown {
+    position: relative;
+    display: block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+	display: block;
+    transition: all 0.3s ease;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+img.firstimg {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 100px;
+    height: 125px;
+    width: 125px;
+    border: 1px solid #4682b4;
+	background: linear-gradient(red,white);
+	clear: both;
+}
+
+img.secondimg {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 100px;
+    height: 125px;
+    width: 125px;
+    border: 1px solid #4682b4;
+	background: linear-gradient(to top right, green, white);
+	transform: rotate(90deg);
+	clear: both;
+}
+
+.firsttext h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18px;
+	margin-left: 0px;
+	margin-left: 100px;
+	text-decoration: underline;
+	display: inline-block;
+	clear:both;
+}
+
+.firsttext p {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18px;
+	margin-left: 0px;
+	margin-left: 120px;
+	text-decoration: underline;
+	display: inline-block;
+	clear:both;
+}
+
+img.thirdimg {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 100px;
+    height: 125px;
+    width: 125px;
+    border: 1px solid #4682b4;
+	background: grey;
+	clear: both;
+}
+
+img.fourthimg {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 100px;
+    height: 125px;
+    width: 125px;
+    border: 1px solid #4682b4;
+	clear: both;
+}
+
+.secondtext h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18px;
+	margin-left: 0px;
+	margin-left: 125px;
+	text-decoration: underline;
+	display: inline-block;
+	clear:both;
+}
+
+.secondtext p {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18px;
+	margin-left: 0px;
+	margin-left: 145px;
+	text-decoration: underline;
+	display: inline-block;
+	clear:both;
+}
+
+img.fifthimg {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 100px;
+    height: 125px;
+    width: 125px;
+    border: 1px solid #4682b4;
+	clear: both;
+}
+
+img.lastimg {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 100px;
+    height: 125px;
+    width: 125px;
+    border: 1px solid #4682b4;
+	clear: both;
+}
+
+.lasttext h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18px;
+	margin-left: 0px;
+	margin-left: 125px;
+	text-decoration: underline;
+	display: inline-block;
+	clear:both;
+}
+
+.lasttext p {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18px;
+	margin-left: 0px;
+	margin-left: 145px;
+	text-decoration: underline;
+	display: inline-block;
+	clear:both;
+}
+
+.tg  {
+	border-collapse:collapse;
+    border-spacing:0;
+	border-color:#999;
+	float:centre;
+}
+.tg td{
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:#999;
+	color:#444;
+	background-color:#F7FDFA;
+}
+.tg th{
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:#999;
+	color:#fff;
+	background-color:#26ADE4;}
+.tg .tg-sl89{
+	font-size:18px;
+	font-family:"Comic Sans MS", cursive, sans-serif !important;;vertical-align:top
+	}
+.tg .tg-oa41{
+	font-size:18px;
+	font-family:"Comic Sans MS", cursive, sans-serif !important;;background-color:#e83e3e;text-align:center;vertical-align:top
+	}
+.tg .tg-op8p{
+	font-size:18px;
+	font-family:"Comic Sans MS", cursive, sans-serif !important;;text-align:center;vertical-align:top
+	}
+	
+.help a{
+	font-family:"Comic Sans MS";
+	font-size:18px;
+}
